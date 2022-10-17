@@ -24,7 +24,7 @@ A API foi consumida neste projeto - https://lmcars.vercel.app/
 * Github
 * VPS (DigitalOcean)
 * MongoDB Atlas
-* Cloudflare (Certificado SSL)
+* Cloudflare (Certificado SSL).
 
  ## Links
   - Deploy BackEnd: https://lmtech.dev.br/api/cars
